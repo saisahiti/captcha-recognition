@@ -1,0 +1,7 @@
+numpy==1.15.4
+opencv-python==3.4.4.19
+tensorboard==1.13.1
+tensorflow==1.13.1
+tensorflow-serving-api==1.13.0
+captcha==0.3
+flask==1.0.2
